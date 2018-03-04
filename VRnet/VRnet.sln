@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRnet", "VRnet\VRnet.csproj", "{26C51B5F-7D68-47A3-85CC-4B8C8FBFD3CE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{26C51B5F-7D68-47A3-85CC-4B8C8FBFD3CE}.Debug.ActiveCfg = Debug|.NET
+		{26C51B5F-7D68-47A3-85CC-4B8C8FBFD3CE}.Debug.Build.0 = Debug|.NET
+		{26C51B5F-7D68-47A3-85CC-4B8C8FBFD3CE}.Release.ActiveCfg = Release|.NET
+		{26C51B5F-7D68-47A3-85CC-4B8C8FBFD3CE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
